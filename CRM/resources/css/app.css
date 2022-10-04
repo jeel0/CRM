@@ -1,0 +1,10 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.contactinfo {
+    border-top: 3px solid rgb(96, 165, 250);
+}
+[x-cloak] {
+    display: none !important;
+}
